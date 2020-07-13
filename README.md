@@ -36,3 +36,5 @@ Things amongst many that need Configuring:
 
 Really and truly, I cannot answer detailed questions about this project in much detail because it has been almost a year since I wrote this and was initially a small script which ended up into a 4000 lines of spaghetti code.
 
+Screenshot of a very early version which I managed to find:
+![Screenshot](img.jpg)
