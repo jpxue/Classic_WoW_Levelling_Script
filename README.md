@@ -6,7 +6,7 @@ Code can nevertheless be consulted although the code is admittedly quite messy (
 
 Current Configuration/Waypoints are for grinding in Felwood for Horde.
 
-SUPPORTS (ON CONFIGURING GLOBAL VARS):
+#### SUPPORTS (ON CONFIGURING GLOBAL VARS):
 - Resurrect (configure resurrect.lua)
 - Vendoring/Selling of Junk (vendors when running out of bag space)
 - Buying of Arrows
@@ -22,7 +22,7 @@ SUPPORTS (ON CONFIGURING GLOBAL VARS):
 - Simple Mage/Hunter Kiting
 - More but I forgot…
 
-Things amongst many that need Configuring:
+#### Things amongst many that need Configuring:
 - Grinding Route Waypoint (make use of Record AddOn attached to record said routes)
 - Resurrect Waypoints
 - Vendor Waypoints
@@ -31,6 +31,7 @@ Things amongst many that need Configuring:
 - Items you want to ALWAYS keep
 - Eat at %, Drink at %, Recover till %
 - Pull distance, Mana/HP Potion Use
+- More but I forgot...
 
 Really and truly, I cannot answer detailed questions about this project in much detail because it has been almost a year since I wrote this and was initially a small script which ended up into a 4000 lines of spaghetti code.
 
