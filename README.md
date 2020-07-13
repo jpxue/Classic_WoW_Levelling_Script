@@ -24,6 +24,7 @@ Current Configuration/Waypoints are for grinding in Felwood for Horde.
 - Auto-Junk/Pesky Item Deletion [‘deleteItems’]
 - Automatic Opening of Items ex: Clams [‘openInBags’]
 - Avoids Flagged NPCs/Elites (tries to even move out of aggro range) [‘avoidNPCs’]
+- Fights only mobs off a similar level range (configurable)
 - More but I forgot…
 
 #### Things amongst many that need Configuring:
