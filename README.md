@@ -38,9 +38,11 @@ Current Configuration/Waypoints are for grinding in Felwood for Horde.
 - Items you want to ALWAYS keep
 - Eat at %, Drink at %, Recover till %
 - Pull distance, Mana/HP Potion Use
+- Script needs to be placed in a folder name after ['scriptName'] which in this case is 'felwood_54'
 - More but I forgot...
 
 Really and truly, I cannot answer detailed questions about this project in much detail because it has been almost a year since I wrote this and was initially a small script which ended up into more than 4000 lines of spaghetti code.
 
-Screenshot of a very early version which I managed to find:
+[![Video of Early Version](https://img.youtube.com/vi/LPRmwnD6GDY/0.jpg)](https://youtu.be/LPRmwnD6GDY)
+
 ![Screenshot](img.jpg)
