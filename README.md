@@ -8,8 +8,9 @@ Current Configuration/Waypoints are for grinding in Felwood for Horde.
 
 #### SUPPORTS (ON CONFIGURING GLOBAL VARS):
 - Resurrect (configure resurrect.lua)
-- Vendoring/Selling of Junk (vendors when running out of bag space)
-- Repairing of Gear
+- Vendoring/Selling of Junk (vendors when running out of bag space, based of item rarity)
+- Can specify items to always Keep or always Sell
+- Repairing of Gear at Vendor
 - Mailing to Alt of valuable items (configure mail.lua) [‘toMail’]
 - Drawing of All Routes, Enemies, Debugging Strings, Status etc… (configurable)
 - Random Jumping, Emoting, Opening of Tabs (ex: guild or character tabs)
@@ -24,7 +25,7 @@ Current Configuration/Waypoints are for grinding in Felwood for Horde.
 - Auto-Junk/Pesky Item Deletion [‘deleteItems’]
 - Automatic Opening of Items ex: Clams [‘openInBags’]
 - Avoids Flagged NPCs/Elites (tries to even move out of aggro range) [‘avoidNPCs’]
-- Fights only mobs off a similar level range (configurable)
+- Fights only mobs of a similar level range (configurable)
 - More but I forgot…
 
 #### Things amongst many that need Configuring:
