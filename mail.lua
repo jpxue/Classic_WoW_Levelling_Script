@@ -1,7 +1,7 @@
 local scriptName = 'felwood_54'
 local recipient = 'Leblanc'
-if ObjectName("player") == "Vagdestroyer" then
-	recipient = "Ommok"
+if ObjectName("player") == "CURRENT_PLAYER_NAME" then
+	recipient = "ACCOUNT_TO_SEND_TO"
 end
 
 print('Mailing...')
