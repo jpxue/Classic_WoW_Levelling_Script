@@ -9,20 +9,21 @@ Current Configuration/Waypoints are for grinding in Felwood for Horde.
 #### SUPPORTS (ON CONFIGURING GLOBAL VARS):
 - Resurrect (configure resurrect.lua)
 - Vendoring/Selling of Junk (vendors when running out of bag space)
-- Repairing
+- Repairing of Gear
+- Mailing to Alt of valuable items (configure mail.lua) [‘toMail’]
+- Drawing of All Routes, Enemies, Debugging Strings, Status etc… (configurable)
+- Random Jumping, Emoting, Opening of Tabs (ex: guild or character tabs)
 - Looting & Skinning
 - Buying of Arrows, Food and Drinks
 - Mage and Hunter Combat Rotations ONLY
-- DC on Item Break/Enemy Nearby
-- Can randomize path (rndMax)
-- Drawing of All Routes, Enemies, Debugging Strings, Status etc…
-- Mailing to Alt of valuable items (configure mail.lua) [‘toMail’]
-- Auto-Junk/Pesky Item Deletion [‘deleteItems’]
-- Automatic Opening of Items ex: Clams [‘openInBags’]
-- Avoids Flagged NPCs (tries to even move out of aggro range) [‘avoidNPCs’]
+- Hunter Pet Management
 - Conjuring of Food/Water/Mana Gems
 - Simple Mage/Hunter Kiting, CCing (Polymorph - if 1v2+, CS, Stuns...)
-- Random Jumping, Emoting, Opening of Tabs (ex: guild or character tabs)
+- DC on Item Break/Enemy Nearby
+- Can randomize path ['rndMax']
+- Auto-Junk/Pesky Item Deletion [‘deleteItems’]
+- Automatic Opening of Items ex: Clams [‘openInBags’]
+- Avoids Flagged NPCs/Elites (tries to even move out of aggro range) [‘avoidNPCs’]
 - More but I forgot…
 
 #### Things amongst many that need Configuring:
