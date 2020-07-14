@@ -1,6 +1,6 @@
 An old LUA script which I wrote and used during Classic launch to primarily level a Hunter & Mage (requires a unlocking of LUA Protected Functions). 
 
-### NOT MEANT TO BE USED AS IS UNLESS YOU UNDERSTAND THE CODE AND ARE WILLING TO MAKE MASSIVE CHANGES TO SUITE YOUR NEEDS. 
+### NOT MEANT TO BE USED AS IS UNLESS YOU UNDERSTAND THE CODE AND ARE WILLING TO MAKE CHANGES TO SUITE YOUR NEEDS (mostly editing of global vars and writing your own rotation). 
 
 Code can nevertheless be consulted although the code is admittedly quite messy (project was just a proof of concept to get a Hunter Alt up all the way from level 10-60 with this).
 
