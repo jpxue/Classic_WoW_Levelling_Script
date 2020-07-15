@@ -1,4 +1,4 @@
-[![https://raw.githubusercontent.com/jpxue/Classic_WoW_Levelling_Script/master/img.jpg](http://img.youtube.com/vi/LPRmwnD6GDY/0.jpg)](http://www.youtube.com/watch?v=LPRmwnD6GDY "Classic WoW Levelling Bot")
+Old Version In Action: http://www.youtube.com/watch?v=LPRmwnD6GDY
 
 An old LUA script which I wrote and used during Classic launch to primarily level a Hunter & Mage (requires EWT/unlocking of LUA Protected Functions). 
 
