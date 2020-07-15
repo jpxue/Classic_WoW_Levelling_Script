@@ -1,3 +1,5 @@
+[![https://raw.githubusercontent.com/jpxue/Classic_WoW_Levelling_Script/master/img.jpg](http://img.youtube.com/vi/LPRmwnD6GDY/0.jpg)](http://www.youtube.com/watch?v=LPRmwnD6GDY "Classic WoW Levelling Bot")
+
 An old LUA script which I wrote and used during Classic launch to primarily level a Hunter & Mage (requires EWT/unlocking of LUA Protected Functions). 
 
 ### NOT MEANT TO BE USED AS IS UNLESS YOU UNDERSTAND THE CODE AND ARE WILLING TO MAKE CHANGES TO SUITE YOUR NEEDS (mostly editing of global vars and writing your own rotation). 
@@ -43,6 +45,5 @@ Current Configuration/Waypoints are for grinding in Felwood for Horde.
 
 Really and truly, I cannot answer detailed questions about this project in much detail because it has been almost a year since I wrote this and was initially a small script which ended up into more than 4000 lines of spaghetti code.
 
-[[Video of Early Version]](https://youtu.be/LPRmwnD6GDY)
 
 ![Screenshot](img.jpg)
