@@ -2770,7 +2770,6 @@ local function Attack(obj)
 	
 end
 
---I have to aq almadonni save on variables -_-
 local OpenArr = { false, false, false, false, false, false, false, false, false }
 
 local function Random()
